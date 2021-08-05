@@ -1,0 +1,6 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://update-windows-11.herokuapp.com/host-https-techviral.net/post-sitemap10.xml
+Sitemap: https://update-windows-11.herokuapp.com/host-https-techviral.net/post-sitemap11.xml
+Sitemap: https://update-windows-11.herokuapp.com/sitemap.xml
